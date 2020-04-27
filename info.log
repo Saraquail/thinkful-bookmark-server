@@ -1,0 +1,43 @@
+{"message":"Bookmark with id 55 not found","level":"error"}
+{"message":"Bookmark with id 55 not found","level":"error"}
+{"message":"Bookmark with id 55 not found","level":"error"}
+{"message":"Bookmark with id 55 not found","level":"error"}
+{"message":"Bookmark with id 55 deleted","level":"info"}
+{"message":"Bookmark with id 55 not found","level":"error"}
+{"message":"Bookmark with id 55 not found","level":"error"}
+{"message":"Bookmark with id 55 deleted","level":"info"}
+{"message":"Unauthorized request to path: /bookmark/55","level":"error"}
+{"message":"Unauthorized request to path: /bookmark/55","level":"error"}
+{"message":"Bookmark with id 55 not found","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id ${id} created.","level":"info"}
+{"message":"Bookmark with id ${id} created.","level":"info"}
+{"message":"Bookmark with id ${id} created.","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id 2 deleted","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id 2 deleted","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id 2 deleted","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id 2 deleted","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id 2 deleted","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id 2 deleted","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id 2 deleted","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id 2 deleted","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id 2 deleted","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id 2 deleted","level":"info"}
+{"message":"Bookmark with id ${bookmark.id} created.","level":"info"}
+{"message":"Bookmark with id 2 deleted","level":"info"}
